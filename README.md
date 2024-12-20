@@ -78,13 +78,14 @@ This project provides a comprehensive analysis of the Titanic dataset, uncoverin
   - Strength: Handles feature complexity with robust performance.
 
 ### **2. Detailed Metrics**
-| Model                  | Validation Accuracy | Precision (Class 1) | Recall (Class 1) | F1-Score (Class 1) |
---|
-| Logistic Regression    | **0.8436**         | **0.83**            | **0.75**         | **0.79**           |
-| XGBoost                | **0.8380**         | **0.81**            | **0.75**         | **0.78**           |
-| SVC                    | 0.8268             | 0.80                | 0.74             | 0.77               |
-| Gradient Boosting      | 0.8156             | 0.82                | 0.67             | 0.74               |
-| Random Forest          | 0.7989             | 0.77                | 0.68             | 0.72               |
+
+| Model                | Validation Accuracy | Precision (Class 1) | Recall (Class 1) | F1-Score (Class 1) |
+|----------------------|---------------------|---------------------|------------------|--------------------|
+| Logistic Regression  | **0.8436**         | **0.83**            | **0.75**         | **0.79**           |
+| XGBoost              | **0.8380**         | **0.81**            | **0.75**         | **0.78**           |
+| SVC                  | 0.8268             | 0.80                | 0.74             | 0.77               |
+| Gradient Boosting    | 0.8156             | 0.82                | 0.67             | 0.74               |
+| Random Forest        | 0.7989             | 0.77                | 0.68             | 0.72               |
 
 ### **3. Visualizations**
 - Confusion Matrix for each model.
