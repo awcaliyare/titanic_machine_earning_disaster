@@ -4,7 +4,6 @@
 
 This project explores the famous Titanic dataset to analyze survival patterns and build machine learning models for survival prediction. By leveraging **exploratory data analysis (EDA)**, **feature engineering**, and **predictive modeling**, this project aims to uncover insights about passenger survival and provide recommendations for fair and effective resource allocation during crises.
 
----
 
 ## **Table of Contents**
 
@@ -14,7 +13,6 @@ This project explores the famous Titanic dataset to analyze survival patterns an
 4. [Conclusions and Recommendations](#conclusions-and-recommendations)  
 5. [Next Steps](#next-steps)
 
----
 
 ## **Introduction**
 
@@ -25,7 +23,6 @@ The Titanic dataset is a classic dataset for data science and machine learning, 
 - **Machine Learning Modeling:** Comparing multiple models to identify the best approach for survival prediction.  
 - **Insights and Recommendations:** Drawing actionable conclusions to improve evacuation protocols during emergencies.
 
----
 
 ## **Key Insights**
 
@@ -45,12 +42,11 @@ The Titanic dataset is a classic dataset for data science and machine learning, 
 5. **Age:**  
    - Children (0–10 years) had a **61.29%** survival rate, while seniors (70+ years) had the lowest survival rate (**14.29%**).
 
----
 
 ## **Machine Learning Model Performance**
 
 | **Model**               | **Validation Accuracy** | **Precision (Class 1)** | **Recall (Class 1)** | **F1-Score (Class 1)** |
-|--------------------------|-------------------------|-------------------------|----------------------|------------------------|
+-----|
 | Logistic Regression      | **0.8436**             | **0.83**                | **0.75**             | **0.79**               |
 | XGBoost                  | **0.8380**             | **0.81**                | **0.75**             | **0.78**               |
 | SVC                      | 0.8268                 | 0.80                    | 0.74                 | 0.77                   |
@@ -80,7 +76,6 @@ The Titanic dataset is a classic dataset for data science and machine learning, 
 3. **Feature Engineering:**  
    - Investigate interactions (e.g., **Pclass × Fare**, **Age × Gender**) to further improve model performance.
 
----
 
 ## **Next Steps**
 
@@ -95,7 +90,6 @@ The Titanic dataset is a classic dataset for data science and machine learning, 
 3. **Continuous Improvement:**  
    - Regularly retrain models with updated data to maintain accuracy.  
 
----
 
 Feel free to explore the project and contribute your feedback! 🚀  
 📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/maqbuul/)
