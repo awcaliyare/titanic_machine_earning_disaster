@@ -98,6 +98,6 @@ The Titanic dataset is a classic dataset for data science and machine learning, 
 ---
 
 Feel free to explore the project and contribute your feedback! 🚀  
-📧 **Contact:** [Your Email or LinkedIn]  
+📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/maqbuul/)
 
 #DataScience #MachineLearning #TitanicDataset #PredictiveAnalytics #DataVisualization
